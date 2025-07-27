@@ -1,1 +1,1 @@
-# BeyBlade_bot
+# BeyBlade Burst Game-bot
